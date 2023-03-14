@@ -25,3 +25,10 @@ Para quem não tem nenhum sistema de controle financeiro pessoal, a regra 50/30/
 – Maior controle sobre o orçamento geral;
 
 – Criação de metas futuras, claras e alcançáveis.
+
+## **Vale a pena usar o método 50 30 20?**
+Se você não está perdido em relação a sua vida financeira e não possui nenhum controle a respeito, esse método 50/30/20 poderá lhe ajudar a organizar suas finanças de uma maneira simples, para que você priorize pagar suas contas em dia, evite dívidas e possa realizar seus objetivos futuros.
+
+Sendo assim, vale muito a pena aplicar essa regra de organização financeira, pois além de auxiliar no controle de gastos, ele ainda, permite que você separe uma quantia para a diversão. Afinal, aproveitar o lazer pode te fazer muito bem.
+
+Portanto, esse método atua como um facilitador, já que estabelece parâmetros claros de gerenciamento. Muitas vezes, as pessoas deixam de controlar seu capital por acharem que é chato ou muito trabalhoso, mas o orçamento 50/30/20 elimina boa parte do trabalho mental envolvido nesse processo.
