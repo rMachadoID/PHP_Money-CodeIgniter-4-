@@ -1,62 +1,27 @@
-# CodeIgniter 4 Application Starter
+# PHP Money - Planejamento financeiro 50/30/20
 
-## What is CodeIgniter?
+## **O que é o orçamento 50/30/20?**
+O método 50/30/20 é um sistema popular de gerenciamento financeiro pessoal que envolve dividir o seu orçamento mensal em três categorias principais de despesas:
 
-CodeIgniter is a PHP full-stack web framework that is light, fast, flexible and secure.
-More information can be found at the [official site](https://codeigniter.com).
+50% das suas receitas são destinadas a despesas essenciais, como moradia, alimentação, transporte, saúde e serviços públicos. Essas despesas são consideradas essenciais e, portanto, não devem ser negligenciadas.
 
-This repository holds a composer-installable app starter.
-It has been built from the
-[development repository](https://github.com/codeigniter4/CodeIgniter4).
+30% do seu orçamento é dedicado a despesas discricionárias, como entretenimento, viagens, jantares fora, roupas e outras coisas que você deseja, mas não precisa necessariamente.
 
-More information about the plans for version 4 can be found in [CodeIgniter 4](https://forum.codeigniter.com/forumdisplay.php?fid=28) on the forums.
+Os 20% finais são direcionados para as suas metas financeiras de longo prazo, como economias para a aposentadoria, pagamento de dívidas, investimentos, poupança para emergências e outras metas financeiras importantes.
 
-The user guide corresponding to the latest version of the framework can be found
-[here](https://codeigniter4.github.io/userguide/).
+Este método é popular porque é fácil de entender e de seguir, e pode ajudar a garantir que você está gastando seu dinheiro de forma inteligente e também economizando para o futuro. No entanto, é importante lembrar que as proporções podem variar dependendo da sua situação financeira pessoal e objetivos de vida.
 
-## Installation & updates
 
-`composer create-project codeigniter4/appstarter` then `composer update` whenever
-there is a new release of the framework.
+## **Quais as vantagens do orçamento 50/30/20?**
 
-When updating, check the release notes to see if there are any changes you might need to apply
-to your `app` folder. The affected files can be copied or merged from
-`vendor/codeigniter4/framework/app`.
+Para quem não tem nenhum sistema de controle financeiro pessoal, a regra 50/30/20 pode ser um bom começo para uma mudança de hábitos relacionados ao dinheiro. Além disso, podemos elencar as seguintes vantagens:
 
-## Setup
+– Fácil visualização do uso do dinheiro;
 
-Copy `env` to `.env` and tailor for your app, specifically the baseURL
-and any database settings.
+– Estabelecimento de limites coerentes;
 
-## Important Change with index.php
+– Relação mais saudável com o dinheiro;
 
-`index.php` is no longer in the root of the project! It has been moved inside the *public* folder,
-for better security and separation of components.
+– Maior controle sobre o orçamento geral;
 
-This means that you should configure your web server to "point" to your project's *public* folder, and
-not to the project root. A better practice would be to configure a virtual host to point there. A poor practice would be to point your web server to the project root and expect to enter *public/...*, as the rest of your logic and the
-framework are exposed.
-
-**Please** read the user guide for a better explanation of how CI4 works!
-
-## Repository Management
-
-We use GitHub issues, in our main repository, to track **BUGS** and to track approved **DEVELOPMENT** work packages.
-We use our [forum](http://forum.codeigniter.com) to provide SUPPORT and to discuss
-FEATURE REQUESTS.
-
-This repository is a "distribution" one, built by our release preparation script.
-Problems with it can be raised on our forum, or as issues in the main repository.
-
-## Server Requirements
-
-PHP version 7.4 or higher is required, with the following extensions installed:
-
-- [intl](http://php.net/manual/en/intl.requirements.php)
-- [mbstring](http://php.net/manual/en/mbstring.installation.php)
-
-Additionally, make sure that the following extensions are enabled in your PHP:
-
-- json (enabled by default - don't turn it off)
-- [mysqlnd](http://php.net/manual/en/mysqlnd.install.php) if you plan to use MySQL
-- [libcurl](http://php.net/manual/en/curl.requirements.php) if you plan to use the HTTP\CURLRequest library
+– Criação de metas futuras, claras e alcançáveis.
